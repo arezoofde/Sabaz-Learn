@@ -4,6 +4,7 @@ import {
   getAndShowPresellCourses,
   getAndShowArticles,
   getAndShowNavbarMenus,
+  
 } from "./funcs/shared.js";
 
 const $ = document;
